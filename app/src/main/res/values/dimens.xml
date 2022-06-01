@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titulo_splash_padding">30sp</dimen>
+    <dimen name="titulo_splash_margin">250dp</dimen>
+    <dimen name="subtitulo_splash_padding">25sp</dimen>
+    <dimen name="subtitulo_splash_margin">40dp</dimen>
+    <dimen name="subtitulo_bajo_splash_padding">20sp</dimen>
+    <dimen name="padding_login">22dp</dimen>
+    <dimen name="margin_login">25dp</dimen>
+    <dimen name="editText_margin_createAccount">100dp</dimen>
+    <dimen name="editText_margin_bajo_createAccount">30dp</dimen>
+    <dimen name="create_account_padding">20dp</dimen>
+    <dimen name="message_margin">25dp</dimen>
+    <dimen name="registrate_margin">10dp</dimen>
+    <dimen name="nav_header_height">190dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
